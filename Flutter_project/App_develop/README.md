@@ -1,4 +1,4 @@
-# inf_lesson1
+# Signal update test
 
 A new Flutter project.
 
